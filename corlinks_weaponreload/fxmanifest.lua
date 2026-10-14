@@ -1,0 +1,6 @@
+fx_version 'cerulean'
+game 'gta5'
+lua54 'yes'
+author 'Corlinks RP'
+description 'Auto reload: reloads your gun by itself when the magazine is empty (ox_inventory)'
+client_script 'client.lua'

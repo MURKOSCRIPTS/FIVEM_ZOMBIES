@@ -1,0 +1,24 @@
+	-- corlinks_zombies items
+	['zdm_medkit'] = {
+		label = 'Field Medkit', weight = 400, stack = true, close = true,
+		description = 'Fully heals you. Takes a few seconds.',
+		client = { export = 'corlinks_zombies.medkit' }
+	},
+	['zdm_antidote'] = {
+		label = 'Z-Antidote', weight = 100, stack = true, close = true,
+		description = 'Cures zombie infection.',
+		client = { export = 'corlinks_zombies.antidote' }
+	},
+	['zdm_adrenaline'] = {
+		label = 'Adrenaline Shot', weight = 100, stack = true, close = true,
+		description = 'Run faster with endless stamina for 20 seconds.',
+		client = { export = 'corlinks_zombies.adrenaline' }
+	},
+	['zdm_flesh'] = {
+		label = 'Zombie Flesh', weight = 200, stack = true,
+		description = 'Rotten trophy taken from the undead. You keep these when you leave.'
+	},
+	['zdm_brain'] = {
+		label = 'Brute Brain', weight = 500, stack = true,
+		description = 'Rare trophy from a Brute. You keep these when you leave.'
+	},

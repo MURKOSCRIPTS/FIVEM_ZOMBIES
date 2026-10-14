@@ -1,0 +1,4 @@
+Put the 4 zombie skin files here:
+  u_m_y_zombie_01.ydd / .ytd / .yft / .ymt
+Get them from "All-in-One Zombies Mega Pack" on gta5-mods.com -> folder "[LIMITED] Vanilla Zombie Replacement".
+Without them the script uses GTA's own zombie.
